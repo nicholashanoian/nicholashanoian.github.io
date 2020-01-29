@@ -20,7 +20,8 @@ August 2019: final presentations at UCLA REU.
 March 2019: spotted on TV playing trumpet in the UVM pep band at March Madness.
 
 ![Skiing in New Hampshire](/assets/images/skiing.jpg)
-Jaunary 2019: skiing with friends at Black Mountain in New Hampshire.
+February 2019: getting some air at Sugarbush in Warren, VT.
+
 
 
 ![Hiking Camel's Hump](/assets/images/headshot.jpg)
