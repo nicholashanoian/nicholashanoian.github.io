@@ -1,7 +1,8 @@
 // Typography
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$base-font-family: fira sans, sans-serif;//'DejaVu Sans Mono', monospace;//'Overpass Mono', monospace;
-$heading-font-family: fira sans, sans-serif;
+// @import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+$base-font-family: "Fira Sans", sans-serif;//'DejaVu Sans Mono', monospace;//'Overpass Mono', monospace;
+$heading-font-family: "Fira Sans", sans-serif;
 
 // Font Sizes
 $base-font-size: 1em;
