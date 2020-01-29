@@ -1,0 +1,47 @@
+<section class="post-list">
+  <div class="container">
+	<h2>Projects</h2>
+    {% for post in site.projects reversed %}
+  {% assign currentdate = post.date | date: "%Y" %}
+
+
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+	{% assign mod = forloop.index | modulo: 2 %}
+
+	{% if currentdate != date %}
+	<h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
+	{% assign date=currentdate%}
+
+	{% endif %}
+	
+	
+      <article class="post-item" style="padding-bottom: 3em;">
+        <!-- <span class="post-meta date-label"> -->
+		  <!-- {{ post.date | date: "%b %d" }} -->
+		  <div style="display: inline-flex; align-items: center;">
+
+
+			{% if mod == 0 %}
+
+			<img src="{{ post.thumbnail }}" style="max-width:50%;">
+			
+			<div class="article-title" style="padding-left: 2em;">
+			  <p><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></p>
+			  <p class="post-meta">{{ post.date | date: "%b %d"}}</p>
+			</div>
+			{% else %}
+			<div class="article-title" style="padding-right: 2em;">
+			  <p><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></p>
+			  <p class="post-meta">{{ post.date | date: "%b %d"}}</p>
+
+			</div>
+			<img src="{{ post.thumbnail }}" style="max-width:50%;">
+			{% endif %}
+		</div>
+      </article>
+
+
+    {% endfor %}
+  </div>
+</section>
