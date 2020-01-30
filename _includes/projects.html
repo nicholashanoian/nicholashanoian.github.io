@@ -24,7 +24,10 @@
 
 			{% if mod == 0 %}
 
-			<img src="{{ post.thumbnail }}" style="max-width:50%;">
+			<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
+			   class="project-img-link">
+			  <img src="{{ post.thumbnail }}">
+			</a>
 			
 			<div class="article-title" style="padding-left: 2em;">
 			  <p><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></p>
@@ -36,7 +39,10 @@
 			  <p class="post-meta">{{ post.date | date: "%b %d"}}</p>
 
 			</div>
-			<img src="{{ post.thumbnail }}" style="max-width:50%;">
+			<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
+			   class="project-img-link">
+			  <img src="{{ post.thumbnail }}">
+			</a>
 			{% endif %}
 		</div>
       </article>
