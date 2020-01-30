@@ -13,11 +13,6 @@ I am currently pursuing data science internships for summer 2020. You can reach 
 
 Some pictures of me doing what I love:
 
-
-
-
-
-
 ![Presenting at UCLA](/assets/images/presenting-at-ucla.jpg)
 August 2019: Final presentations at UCLA REU.
 

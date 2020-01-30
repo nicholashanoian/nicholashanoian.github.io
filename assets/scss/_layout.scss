@@ -31,6 +31,12 @@ body {
   background-color: $base-background-color;
 }
 
+
+h5 {
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+
 hr {
   border-top: none;
   border-bottom: 2px solid lighten($light-gray-color, 7%);

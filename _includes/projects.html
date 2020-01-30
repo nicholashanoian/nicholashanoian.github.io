@@ -1,6 +1,10 @@
 <section class="post-list">
   <div class="container">
 	<h2>Projects</h2>
+
+	<p>Listed below are several projects that I have worked on over the past few years organized in reverse chronological order. View the full posts for each project by clicking on either the title or the associated image.</p>
+
+	
     {% for post in site.projects reversed %}
   {% assign currentdate = post.date | date: "%Y" %}
 
