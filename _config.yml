@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Nicholas Hanoian"
 title_right   : "" # default: ""
-description   : "My personal website"
+description   : "Data scientist"
 keywords      : "" #"Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://nicholashanoian.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
