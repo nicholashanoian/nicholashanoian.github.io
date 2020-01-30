@@ -28,6 +28,8 @@ using differentially-private data through the local model. We satisfy
 the requirements of the local model by making each input example
 differentially private before our model sees them at all.
 
+## Dataset
+
 We used the MNIST dataset which is comprised of images of handwritten
 numbers and their labels, the true number values. We originally
 planned on using both the images and their labels, but we quickly saw
@@ -35,6 +37,8 @@ the problem with using noisy labels. If the label is incorrect, the
 entire example is driving the model in a completely wrong direction.
 Insetad we decided to use an unsupervised clustering method which
 ignores the labels entirely.
+
+## Models
 
 First, we attempted to train our own convolutional neural networks
 which have been shown to be effective classifiers. After these results
@@ -67,6 +71,8 @@ of $\epsilon=10$ to be revealing a significant amount of data.
 <p align="center"> 
 <img src="/assets/images/projects/synthetic-data/epsilons-full.png" alt="Noised data with various epsilons">
 </p>
+
+## Results
 
 As expected, the model trained on the raw data performs extremely well
 and achieves a classification error of under 10 percent, with the loss
