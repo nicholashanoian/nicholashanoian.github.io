@@ -18,7 +18,7 @@ which retiring counselors can sign as they leave. A picture of the
 completed project is shown below. While it was not an overly technical
 task, it was a major success and it greatly outperformed its
 predecessors. In the past, counselors would create one of these boards
-and the entire structure would rot within a few year. The one that I
+and the entire structure would rot within a few years. The one that I
 built, however, is still standing strong to this day and I built it
 all the way back in 2013.
 

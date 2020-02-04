@@ -7,7 +7,7 @@ permalink: /about/
 
 I study data science and mathematics at The University of Vermont. I also enjoy playing the trumpet in UVM's Pep Band and skiing as much as I can. 
 
-I am currently pursuing data science internships for summer 2020. You can reach me via email at nicholashanoian`[at]`gmail.com. Check me out on [Github](https://github.com/nicholashanoian).
+I am currently pursuing data science internships for summer 2020. You can reach me via email at [mailto](nicholashanoian@gmail.com). Check me out on [Github](https://github.com/nicholashanoian).
 
 
 

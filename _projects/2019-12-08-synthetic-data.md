@@ -44,12 +44,12 @@ First, we attempted to train our own convolutional neural networks
 which have been shown to be effective classifiers. After these results
 were not at all promising, we looked at current literature to see if
 any other methods would be more effective. We found a paper which
-described and implemented a model called invariant informaiton
+described and implemented a model called invariant information
 clustering which is a state-of-the-art method for unsupervised image
-classification. This paper by Ji et al. even used the stanard version
+classification. This paper by Ji et al. even used the standard version
 of the MNIST dataset and achieved incredibly high accuracy of 99.2%
 correct classification rate, so we reasoned that it should still be
-able to achieve decent performacne if we add noise to the data.
+able to achieve decent performance if we add noise to the data.
 
 To generate the noisy input data, we first took the 28x28 image and
 normalized the pixel values so that the L2 norm of all the pixel

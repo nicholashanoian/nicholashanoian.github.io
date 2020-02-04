@@ -12,7 +12,7 @@ Fatwas are nonbinding legal opinions concerning Shari’a given by a mufti (reli
 
 ## Grouping posts by common categories
 
-In order to obtain data for this project, I created scraped several hundred posts from each of 6 popular fatwa-issuing websites. Then by aggregating the categories that each individual site uses, I created a common set of categories with which to compare the content of each of the sites:
+In order to obtain data for this project, I scraped several hundred posts from each of 6 popular fatwa-issuing websites. Then by aggregating the categories that each individual site uses, I created a common set of categories with which to compare the content of each of the sites:
 
 - Quaran
 - Hadith
@@ -29,7 +29,7 @@ The first plot below shows the number of posts within each category, by site. Si
 ![Post groupings by frequency](/assets/images/projects/fatwa/by-site-frequency.png)
 
 
-This next plot is the same as the previous except it takes each bar and stretches it so that it fills up the entire height of the plot. This provides a visual representation of the distributions of categories within each site, allowing us to look at what each site focuses on. Moving from the top of the color scale to the bottom, we first see the no sites have significant amounts of posts on the Qur’an or Hadith. Almost half of eShaykh.com’s posts concern faith/beliefs, which makes sense given its focus on dream interpretation. Most of the sites feature a large proportion of posts about prayers and duties, with the most notable being Islam Q&A, with more than half of its post being in that category. Sistani.org has the highest proportion of posts in the family/women category of the different sites. Neither eShaykh or Islam Q&A have any posts in the financial issues category which is evidence of the flaws in our regrouping of categories. With Islam Q&A, for example, Principles of Fiqh is was put into the prayers/duties category, yet some of its subcategories include Business, Borrowing and Lending, and Inheritance, all of which should have should have gone under the financial issues category. All of the sites have a small, yet present group of posts in the society and politics category.
+This next plot is the same as the previous except it takes each bar and stretches it so that it fills up the entire height of the plot. This provides a visual representation of the distributions of categories within each site, allowing us to look at what each site focuses on. Moving from the top of the color scale to the bottom, we first see the no sites have significant numbers of posts on the Qur’an or Hadith. Almost half of eShaykh.com’s posts concern faith/beliefs, which makes sense given its focus on dream interpretation. Most of the sites feature a large proportion of posts about prayers and duties, with the most notable being Islam Q&A, with more than half of its post being in that category. Sistani.org has the highest proportion of posts in the family/women category of the different sites. Neither eShaykh or Islam Q&A have any posts in the financial issues category which is evidence of the flaws in our regrouping of categories. With Islam Q&A, for example, Principles of Fiqh is was put into the prayers/duties category, yet some of its subcategories include Business, Borrowing and Lending, and Inheritance, all of which should have should have gone under the financial issues category. All of the sites have a small, yet present group of posts in the society and politics category.
 
 
 
