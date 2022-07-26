@@ -12,7 +12,7 @@ I currently work as a Data Scientist for the San Francisco Casualty practice of 
 Some pictures of me doing what I love:
 
 ![Vacationing in Napa Valley, California](/assets/images/napa.jpg)
-June 2022: Posing at Robert Mondavi Winery on a vacation to the valley.
+June 2022: Posing at Robert Mondavi Winery on a vacation to Napa Valley, California.
 
 ---
 
