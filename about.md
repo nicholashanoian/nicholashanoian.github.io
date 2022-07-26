@@ -5,13 +5,28 @@ permalink: /about/
 ---
 
 
-I study data science and mathematics at The University of Vermont. I also enjoy playing the trumpet in UVM's Pep Band and skiing as much as I can. 
-
-I am currently pursuing data science internships for summer 2020. You can reach me via email at [mailto](nicholashanoian@gmail.com). Check me out on [Github](https://github.com/nicholashanoian).
+I currently work as a Data Scientist for the San Francisco Casualty practice of Milliman, an insurance consulting firm with offices around the globe. In my free time I enjoy all kinds of activities such as skiing, road biking, cooking, coffee brewing, trumpet playing, and hiking. You can reach me via email at [mailto](nicholashanoian@gmail.com). Check me out on [Github](https://github.com/nicholashanoian).
 
 
 
 Some pictures of me doing what I love:
+
+![Vacationing in Napa Valley, California](/assets/images/napa.jpg)
+June 2022: Posing with my new statue-friend at Robert Mondavi Winery on a vacation to the valley.
+
+---
+
+![Making espresso at home](/assets/images/coffee.jpg)
+April 2022: I have recently starting getting into brewing espresso-based drinks at home.
+
+---
+
+
+![Road biking around Denver, Colorado](/assets/images/biking.jpg)
+July 2021: I enjoy riding my road bike all around Denver, and this picture was taken at the halfway point of a longer ride down to Cherry Creek State Park.
+
+---
+
 
 ![Presenting at UCLA](/assets/images/presenting-at-ucla.jpg)
 August 2019: Final presentations at UCLA REU.
